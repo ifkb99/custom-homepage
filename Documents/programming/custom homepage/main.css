@@ -1,0 +1,46 @@
+body{
+    background-color: #66ccff;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    display: inline-flex;
+    border-radius: 3px;
+    padding: 20px;
+}
+
+ul{
+    list-style-type: katakana-iroha;
+    display: table; 
+    margin: 0 auto;
+}
+
+li{
+    font-family: serif;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+a:visited{
+    color: blue;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+}
+
+.center{
+    text-align: center;
+    margin: 0 auto;
+    width: 225px;
+    height: 100px;
+    display: block;
+}
