@@ -1,5 +1,6 @@
 body{
     background-color: #66ccff;
+    background-image: url("images/sparkle.gif");
 }
 
 h1{
@@ -10,6 +11,7 @@ div{
     display: inline-flex;
     border-radius: 3px;
     padding: 20px;
+    background-color: #66ccff;
 }
 
 ul{
