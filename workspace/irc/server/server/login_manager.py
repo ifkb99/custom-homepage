@@ -1,0 +1,1 @@
+def verify_credentials(user, passwd):
